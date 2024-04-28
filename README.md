@@ -8,7 +8,7 @@
 </div>
 
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mukul-Deval1999&label=Profile%20views&color=0e75b6&style=flat" alt="Mukul-Deval1999" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=meena730&label=Profile%20views&color=0e75b6&style=flat" alt="meena730" /> </p>
 
 <br> 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meena730" alt="meena730" /></a> </p>
