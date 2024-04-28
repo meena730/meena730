@@ -4,8 +4,10 @@
  If you are looking for a software engineer who is passionate about building great products, then I encourage you to reach out to me. I would be happy to discuss my skills and experience with you.eager to learn new technologies. I am also a team player and I enjoy working with others to solve problems.</em></p>
 
 <div id="header" align="center">
-<img src="https://drive.google.com/file/d/1PoZKMotQJhoDcsQRCtfW8Fyzk6OkixX7/view?usp=sharing" width="300"/>
+<img src="![me](https://github.com/meena730/meena730/assets/145858424/7fd6255e-c14f-4029-a345-97b16bb03e76)
+" width="300"/>
 </div>
+
 
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=meena730&label=Profile%20views&color=0e75b6&style=flat" alt="meena730" /> </p>
