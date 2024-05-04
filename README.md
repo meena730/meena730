@@ -37,7 +37,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/meena-dhakad-9b225a202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My LinkedIn profile" height="30" width="40" /></a>
  <a></a>
- <a href = "https://www.instagram.com/smile_or_code/"  target="blank" > <img align="center" src= "https://imgs.search.brave.com/_v-rJKEqR74dJxmHO2v7_1Bx24wC9VKyav0fAdH_Ut8/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pLmd1/aW0uY28udWsvaW1n/L21lZGlhLzIyZTMy/YzFiMWRlNDBlZDcx/MDNlMmUyZTg5OTVi/NzQyYWM2MDBiZDYv/NzBfMF83MTdfNDMw/L21hc3Rlci83MTcu/anBnP3dpZHRoPTQ0/NSZkcHI9MSZzPW5v/bmU"  alt="My Instagram Profile" height="30" width="40"/>
+ <a href = "https://www.instagram.com/smile_or_code/"  target="blank" > <img align="center" src= "https://imgs.search.brave.com/mTdYQvhbzNV9h0ZctWfiWrDYffkTx_vfQ4wNTCBYzWo/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODBiNTdmY2Q5OTk2/ZTI0YmM0M2M1MjEu/cG5n"  alt="My Instagram Profile" height="30" width="40"/>
  </a>
 </p>
 
