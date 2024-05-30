@@ -25,7 +25,7 @@
 
 - ⭐ <a href="https://portfolio-meena02.netlify.app/">Click here to see my portfolio</a>
 
-- 💌 how to reach me **
+- 💌 how to reach me *dhakadm970@gmail.com *
 
 - 📄 Want to know more about me click here to see my *<a href="https://drive.google.com/file/d/1Tmos5dSzs4DRn65jVnLYFUAs5h_Cn6bD/view">Resume</a>*
 
