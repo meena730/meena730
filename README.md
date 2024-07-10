@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact I just learned coding in 10 months and I have 1200+ hrs coding experience
 
-- ⭐ <a href="https://portfolio-meena02.netlify.app/">Click here to see my portfolio</a>
+- ⭐ <a href="https://portfolio-meena.netlify.app/">Click here to see my portfolio</a>
 
 - 💌 how to reach me *dhakadm970@gmail.com *
 
