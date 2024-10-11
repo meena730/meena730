@@ -17,9 +17,9 @@
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning React Development 
+- 🌱 I’m currently Intern at Factobi and Ex-Intern at Primathon Tech of React Development .
 
-- 💬 Ask me about HTML,CSS,Javascript,Tailwind,React
+- 💬 Ask me about HTML,CSS,Javascript, TypeScript ,Tailwind,React,NextJs
 
 - ⚡ Fun fact I just learned coding in 10 months and I have 1200+ hrs coding experience
 
