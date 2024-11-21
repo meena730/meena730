@@ -52,7 +52,6 @@
 <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
 <img src =
 "https://imgs.search.brave.com/5IZF2fSeqXOoGJCm-sknMji9sp-OwvXhlclZgt86UX0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jYW1v/LmdpdGh1YnVzZXJj/b250ZW50LmNvbS9i/NmMxNmYyN2VlOTAy/YmYzMzU5YjdkYzhj/OTAyNmFlMWIyZWUx/MjBlOTYyZWExMWUy/N2FmZGMxZDFhMjYy/ZWE5LzY4NzQ3NDcw/NzMzYTJmMmY2MjYx/NjQ2NzY1NzMyZTY2/NzI2MTcwNzM2ZjY2/NzQyZTYzNmY2ZDJm/NzQ3OTcwNjU3MzYz/NzI2OTcwNzQyZjc2/NjU3MjczNjk2ZjZl/MmY3NDc5NzA2NTcz/NjM3MjY5NzA3NDJk/NzYzMTM5MmU3Mzc2/NjczZjc2M2QzMTMw/MzE.jpeg"
- 
  align="center" alt="Typescript"> 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
